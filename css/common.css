@@ -51,4 +51,20 @@
 .hide{
     display: none;
 }
-
+/* a태그 h3 스타일 */
+.blue{
+    background-color: #eef3ff;
+    color: #1c316e;
+}
+.red{
+    background-color: #fbe7ef;
+    color: #972854;
+}
+.green{
+    background-color: #e1f1d9;
+    color: #4c7b38;
+}
+.purple{
+    background-color: #e4e4ff;
+    color: #4944e1;
+}
